@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![bitcoin-flutter-demo](https://user-images.githubusercontent.com/18183645/232761934-e62947d8-115f-4746-886f-02364258776e.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
